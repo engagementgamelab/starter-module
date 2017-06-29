@@ -1,6 +1,6 @@
 {
 	"name": "Module Name",
-	"database": "test-module-1",
+	"database": "database-name-here",
 	"subdomain": "subdomain",
 	"allowed_domains": ["optional.com"],
 	"admin_nav": { 
