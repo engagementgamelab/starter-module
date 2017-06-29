@@ -1,10 +1,10 @@
 {
-  "name": "starter-module",
-  "description": "EL Web SDK Starter Module",
+  "name": "test-module-1",
+  "description": "Test Module 1",
   "version": "0.0.4",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/engagementgamelab/starter-module.git"
+    "url": "git+https://github.com/esalling23/test-module-1.git"
   },
   "main": "app.js",
   "dependencies": {
